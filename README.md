@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @EDK12
 - 👀 I’m interested in coding and electronics
-- 🌱 I’m currently know C# and SQL
-- I'm currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kilicemirdogukan@gmail.com
 
 <!---
